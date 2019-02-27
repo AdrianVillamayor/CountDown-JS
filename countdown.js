@@ -2,7 +2,7 @@ function countdown(duration, display = null, format = "s") {
   var timer = duration;
   var result = "";
   var timeinterval = setInterval(function () {
-    var result = "";
+    result = "";
     var hours = Math.floor(timer / 3600);
     var minutes = Math.floor((timer % 3600) / 60);
     var seconds = timer % 60;
