@@ -1,4 +1,4 @@
-# Countdown-JavaScritp
+# Countdown
 
 Timer, with output format customization.
 
