@@ -2,13 +2,22 @@
 
 Timer, with output format customization.
 
+## Demo
+Try it 
+
+[![Codepen](https://user-images.githubusercontent.com/29653964/116972608-8f6bca80-acbb-11eb-98c1-8a3b19705de1.png)](https://codepen.io/adrianvillamayor/pen/KEpXLz)
+
+
 ## Installation
 
+### CDN
 
 ```html
-To edit the output element, you can replace it with js vanilla
-<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="countdown.js"></script>
+```
+### Manual
 
+```html
 <script src="countdown.js"></script>
 ```
 
@@ -25,8 +34,6 @@ To edit the output element, you can replace it with js vanilla
 
  countdown(3700, display, 'hms');
 ```
-## Demo
-[Demo on Codepen](https://codepen.io/adrianvillamayor/pen/KEpXLz?editors=1010)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -34,3 +41,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://github.com/AdrianVillamayor/Countdown-JavaScritp/blob/master/LICENSE)
+
+### Thanks for your help! 🎉
