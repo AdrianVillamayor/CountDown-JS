@@ -13,12 +13,12 @@ Try it
 ### CDN
 
 ```html
-<script src="countdown.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/AdrianVillamayor/CountDown-JS@master/src/countdown.min.js"></script>
 ```
 ### Manual
 
 ```html
-<script src="countdown.js"></script>
+<script src="src/countdown.min.js"></script>
 ```
 
 ## Usage
